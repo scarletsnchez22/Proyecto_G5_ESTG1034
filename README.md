@@ -1,6 +1,7 @@
 # Proyecto_G5_ESTG1034
 Este es el reprositorio con el código en R del proyecto de Estadística para Ingeniería del grupo 5
-Estudio estadístico del Rendimiento Académico Universitario y sus Determinantes”
+
+Título: "Estudio estadístico del Rendimiento Académico Universitario y sus Determinantes”
 DATA: STUDENTS PERFORMANCE de Kaggle
 
 INTEGRANTES:
