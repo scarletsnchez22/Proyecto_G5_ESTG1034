@@ -5,6 +5,11 @@ Este repositorio contiene el código en R del proyecto de Estadística para Inge
 **Título:** "Estudio estadístico del Rendimiento Académico Universitario y sus Determinantes”  
 **DATA:** STUDENTS PERFORMANCE de Kaggle
 
+## 
+**Paralelo:** #4  
+**Profesor:** MSc. Pamela Vanessa Crow Santos  
+**Término:** II PAO 2023
+
 ## Integrantes
 
 - BAQUERIZO PINZON JUAN SEBASTIAN
@@ -12,9 +17,6 @@ Este repositorio contiene el código en R del proyecto de Estadística para Inge
 - PLUAS VERA DARIO HUMBERTO
 - SÁNCHEZ AGUIRRE SCARLET GABRIELA
 
-**Paralelo:** #4  
-**Profesor:** MSc. Pamela Vanessa Crow Santos  
-**Término:** II PAO 2023
 
 ## Instrucciones de Uso
 
