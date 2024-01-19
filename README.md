@@ -19,7 +19,7 @@ Este repositorio contiene el código en R del proyecto de Estadística para Inge
 
 ## Instrucciones de Uso
 
-1. Descarga el conjunto de datos ["STUDENTS PERFORMANCE" de Kaggle](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams).
+1. Descargar el conjunto de datos ["STUDENTS PERFORMANCE" de Kaggle](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams).
 2. Reemplazar en el código data <- read.csv("dirección de la data en su computadora")
 3. Ejecutar el código en R para realizar el estudio estadístico.
 4. Explorar los resultados y visualizaciones generadas.
